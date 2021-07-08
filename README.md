@@ -1,2 +1,7 @@
 # Lumen-Influence-Dataset
-We composed a diverse dataset by gathering different types of texts from multiple sources, split into three groups: (1) Deceptive Texts with 1,082 pieces of text containing disinformation and/or deception tactics; (2) Hyperpartisan News with 1,003 hyperpartisan media news from politically right- and left-leaning publications, and (3) Mainstream News with 974 center mainstream media news.
+This dataset contains different types of texts from multiple sources labeled for the presence of several influence cues, and split into three groups: 
+1. Deceptive Texts (containing disinformation and/or deception tactics)
+2. Hyperpartisan News (from politically right- and left-leaning publications)
+3. Mainstream News (containing center mainstream media news)
+
+At this stage, we kindly ask that this dataset not be distributed or disseminated to others. 
